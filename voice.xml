@@ -1,0 +1,4 @@
+<Response>
+<Say voice="alice">hello mister aashish your ajio order has been shipped, if you want to take delivery press 1, if you want to cancel this order press 2, if you want to talk to our customer executive press 3</Say>
+<Play>http://demo.twilio.com/docs/classic.mp3</Play>
+</Response>
